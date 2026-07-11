@@ -70,7 +70,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/saurav-09/weather-app
 ```
 
 Move into the project directory:
