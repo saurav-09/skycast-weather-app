@@ -8,7 +8,7 @@ Users can search for cities around the world and view current weather conditions
 
 ## 🚀 Live Demo
 
-Add your deployed application link here after deployment.
+https://weather-app-eta-seven-gib6mm2bgz.vercel.app
 
 ## ✨ Features
 
@@ -70,7 +70,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone 
 ```
 
 Move into the project directory:
