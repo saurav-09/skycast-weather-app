@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast Application
+# 🌦️ SkyCast - Weather Forecast Application
 
 ![Application Screenshot](./public/screenshot.png)
 
